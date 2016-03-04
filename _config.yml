@@ -1,0 +1,28 @@
+name: Almanix
+favicon: null
+layout_spectrum: 0.8659916536416858
+typography_spectrum: 0.09061414725147188
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8974931568372995
+  lightness: 0.8866164931096137
+  saturation: 0.31018111598677933
+  rhythmicContrast: 0.17848343960940838
+purpose: []
