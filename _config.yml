@@ -1,29 +1,40 @@
-name: Almanix Design
+layout_spectrum: 0.351602
 favicon: null
-layout_spectrum: 0.51701
-typography_spectrum: 0.4589
-title: 'Arquitetura de Projetos, Direção Criativa  e Identidades Visuais '
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: Almanix
+purpose: []
 analytics:
-  google: UA-54793210-4
-  facebook: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.5
+  saturation: 0.5
   brandColors:
     - '#edece2'
     - '#000000'
     - '#989791'
     - '#725429'
     - '#393836'
-  brandStrength: 0.125
-  lightness: 0.625
-  saturation: 0.125
-  rhythmicContrast: 0
-purpose: []
+  lightness: 0.5
+  rhythmicContrast: 0.5
+typography_spectrum: 0.555
