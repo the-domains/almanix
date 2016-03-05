@@ -4,8 +4,15 @@
         <description><![CDATA[Almanix Design | Arquitetura de Projetos, Direção Criativa  e Identidades Visuais ]]></description>
         <link>https://thegrid.ai/almanix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 04:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 04:50:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/almanix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Recomendado para quem busca parcerias e investimentos.]]></title>
+            <description><![CDATA[<article><h1>Recomendado para quem busca parcerias e investimentos.</h1><p>Business Preview</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07a92f5e03856123447e6250c6bcff1def03d8f6.png"></article>]]></description>
+            <link>https://thegrid.ai/almanix/recomendado-para-quem-busca-parcerias-e-investimentos/index.html</link>
+            <guid isPermaLink="false">77b5eddd-f485-4f9c-a4a2-dd14257d237e</guid>
+            <pubDate>Sat, 05 Mar 2016 04:49:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b35589c-e44e-44aa-a485-f83bca83f5d1.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/almanix/6f7da148-497c-4d43-8d8a-fe678a518467/index.html</link>
             <guid isPermaLink="false">6f7da148-497c-4d43-8d8a-fe678a518467</guid>
             <pubDate>Sat, 05 Mar 2016 04:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web & Design]]></title>
-            <description><![CDATA[<article><h1>Web & Design</h1><p>Somos uma dupla de criativos atuantes em diversos segmentos do comércio. Criamos identidades impactantes para experiências visuais únicas</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d01bfb4c144f0d3bb05d46b5cbdb83758cface53.png"></article>]]></description>
-            <link>https://thegrid.ai/almanix/web-and-design/index.html</link>
-            <guid isPermaLink="false">b2180965-2bdd-40eb-9bd9-549b592691c3</guid>
-            <pubDate>Sat, 05 Mar 2016 04:30:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
