@@ -1,15 +1,7 @@
-layout_spectrum: 0.351602
-favicon: null
 name: Almanix
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.351602
+typography_spectrum: 0.555
 collections:
   - index:
       navigable: true
@@ -22,19 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Almanix Publicidade
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5
-  saturation: 0.5
   brandColors:
     - '#edece2'
     - '#000000'
     - '#989791'
     - '#725429'
     - '#393836'
+  brandStrength: 0.5
   lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
-typography_spectrum: 0.555
+purpose: []
